@@ -344,7 +344,7 @@ APB Bridge를 직접 구현하면서 PSEL/PENABLE 타이밍을 잘못 잡으면 
 
 ## 🔗 관련 레포지토리
 
-- **싱글사이클 CPU**:[ [RV32I Single-Cycle](#) (이전 버전)](https://github.com/yeoinseok/risc_v-rv32i-32bit)
+- **싱글사이클 CPU**:[ [RV32I Single-Cycle](https://github.com/yeoinseok/risc_v-rv32i-32bit)
 
 
 ## 📄 참고 자료
