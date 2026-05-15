@@ -120,6 +120,7 @@ RV32I-Multicycle-APB-BUS-Design/
 ```
 
 **APB 타이밍:**
+
 <img width="629" height="353" alt="image" src="https://github.com/user-attachments/assets/14e4706e-2c9d-4629-9b97-2b806271fc6a" />
 
 
