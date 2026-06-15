@@ -10,6 +10,10 @@
 **팀 구성:** 4인 팀 프로젝트  
 **담당 업무:** FND/UART Peripheral 모듈 설계 및 Manager 모듈과의 데이터 송수신 인터페이스 통합
 
+## 🎬 동작 영상
+
+[![동작 영상](https://img.youtube.com/vi/cMzEAEq0Hs8/0.jpg)](https://youtu.be/cMzEAEq0Hs8)
+
 ## 🎯 주요 기능
 
 ### 멀티사이클 CPU 아키텍처
